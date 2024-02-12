@@ -3,7 +3,7 @@ VPhish - it is a simple multi-threaded phishing server written in Python.
 
 
 > [!CAUTION]
-> Use this project for introductory and educational purposes only
+> Use this project for introductory and educational purposes only!
 
 ## :hammer_and_wrench: &nbsp; Server Management:
 
