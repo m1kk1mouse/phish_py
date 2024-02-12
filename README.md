@@ -6,6 +6,9 @@ VPhish - it is a simple multi-threaded phishing server written in Python.
 > [!IMPORTANT]
 > Before you begin, change the IP-addres server in the "fish.bat" file!
 
+> [!CAUTION]
+> Use this project for introductory and educational purposes only
+
 Run server ▶️:
 > $ sudo python3 Thread.py
 
