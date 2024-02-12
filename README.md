@@ -11,5 +11,4 @@ Run server ▶️:
 
 Stop server ⏹️:
 
-To stop the server, press Ctrl+C
-
+To stop the server, press <button name="button">Ctrl</button> + <button name="button">C</button> .
